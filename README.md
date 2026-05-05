@@ -102,6 +102,7 @@ Please refer to the license file for any further questions about incorporating t
 We are looking forward to hearing your feedback and kindly ask you to share bugfixes, improvements and updates on the files provided.
 
 Bibtex:
+
 @article{BILFINGER2026100589,
 title = {Battery pack diagnostics for electric vehicles: Robustness of the state of health measurement and differential voltage analysis at the vehicle level},
 journal = {eTransportation},
