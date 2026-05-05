@@ -5,8 +5,8 @@ Supplementary python code for the publication. Analyze charging data from state 
 Derive curves for vehicle level differential voltage analysis (DVA) and deeper aging assessment.
 
 ## Associated Article
-Please also check the associated article available online published with:
-(will be added after acceptance)
+Please also check the associated article available online published with eTransportation:
+[Link to article](https://doi.org/10.1016/j.etran.2026.100589)
  
 ## Features
 * Calculation of the vehicle-level SOH
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 ```  
 3. download data from mediaTUM and place into data folder:
 ```url
-https://mediatum.ub.tum.de/1840112 (will be available after publication)
+https://mediatum.ub.tum.de/1840112
 ```
 
 ## Contributing and Support
@@ -76,7 +76,7 @@ https://mediatum.ub.tum.de/1840112 (will be available after publication)
 For contributing to the code please contact:  
 
 [Philip Bilfinger](mailto:philip.bilfinger@tum.de)<br/>
-**[Institute of Automotive Technology](https://www.mos.ed.tum.de/en/ftm/home/)**<br/>
+**[Chair of Automotive Technology](https://www.mos.ed.tum.de/en/ftm/home/)**<br/>
 **[Technical University of Munich, Germany](https://www.tum.de/en/)**
 
 ## Versioning
@@ -100,3 +100,16 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Please refer to the license file for any further questions about incorporating these scripts into your projects.
 
 We are looking forward to hearing your feedback and kindly ask you to share bugfixes, improvements and updates on the files provided.
+
+Bibtex:
+@article{BILFINGER2026100589,
+title = {Battery pack diagnostics for electric vehicles: Robustness of the state of health measurement and differential voltage analysis at the vehicle level},
+journal = {eTransportation},
+pages = {100589},
+year = {2026},
+issn = {2590-1168},
+doi = {https://doi.org/10.1016/j.etran.2026.100589},
+url = {https://www.sciencedirect.com/science/article/pii/S2590116826000470},
+author = {Philip Bilfinger and Philipp Rosner and Markus Schreiber and Tobias Brehler and Cristina Grosu and Jan Schöberl and Kareem {Abo Gamra} and Markus Lienkamp},
+keywords = {Battery aging, Battery diagnostics, Differential voltage analysis, Electric vehicle, Lithium-ion battery, State of health},
+}
